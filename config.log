@@ -1,0 +1,58 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:560: checking host system type
+configure:584: checking for gcc
+configure:697: checking whether the C compiler (gcc  ) works
+configure:713: gcc -o conftest    conftest.c  1>&5
+configure:739: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:744: checking whether we are using GNU C
+configure:772: checking whether gcc accepts -g
+configure:815: checking for a BSD compatible install
+configure:871: checking for strip
+configure:907: checking how to run the C preprocessor
+configure:988: checking for minix/config.h
+configure:1116: checking for library containing tgetstr
+configure:1183: checking for dirent.h that defines DIR
+configure:1221: checking for opendir in -ldir
+configure:1304: checking for ANSI C header files
+configure:1408: checking for sys/wait.h that is POSIX.1 compatible
+configure:1453: checking for fcntl.h
+configure:1453: checking for sys/file.h
+configure:1453: checking for sys/ioctl.h
+configure:1453: checking for sys/time.h
+configure:1453: checking for termio.h
+configure:1453: checking for termios.h
+configure:1453: checking for sgtty.h
+configure:1453: checking for unistd.h
+configure:1453: checking for sys/param.h
+configure:1491: checking for working const
+configure:1566: checking for pid_t
+configure:1599: checking for size_t
+configure:1632: checking whether time.h and sys/time.h may both be included
+configure:1713: checking for working alloca.h
+configure:1746: checking for alloca
+configure:1946: checking whether gcc needs -traditional
+configure:1992: checking for 8-bit clean memcmp
+configure:2028: checking return type of signal handlers
+configure:2070: checking for vfork.h
+configure:2105: checking for working vfork
+configure:2281: checking for getcwd
+configure:2281: checking for rmdir
+configure:2281: checking for rename
+configure:2281: checking for opendir
+configure:2281: checking for select
+configure:2281: checking for mkstemp
+configure:2281: checking for bcopy
+configure:2281: checking for bzero
+configure:2281: checking for bcmp
+configure:2336: checking for rindex
+configure:2336: checking for symlink
+configure:2336: checking for dup2
+configure:2336: checking for sigprocmask
+configure:2336: checking for getgroups
+configure:2392: checking for cp
+configure:2431: checking for mv
+configure:2470: checking for ls
+configure:2509: checking for rmdir
+configure:2547: checking if --enable-canna option specified
