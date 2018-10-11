@@ -5,6 +5,7 @@
  * implement commands that work word at
  * a time. There are all sorts of word mode
  * commands.
+ * 
  */
 
 /*
